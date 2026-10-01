@@ -1,0 +1,268 @@
+{
+  "datasetSource": "https://huggingface.co/datasets/ManikaSaini/zomato-restaurant-recommendation/resolve/main/zomato.csv",
+  "ingestedAt": "2026-10-01T18:37:00.927397Z",
+  "totalRawRowsProcessed": 5198,
+  "totalUniqueRestaurants": 3000,
+  "locationsCount": 56,
+  "topLocations": [
+    {
+      "name": "Bannerghatta Road",
+      "count": 444
+    },
+    {
+      "name": "JP Nagar",
+      "count": 372
+    },
+    {
+      "name": "Bellandur",
+      "count": 345
+    },
+    {
+      "name": "Banashankari",
+      "count": 283
+    },
+    {
+      "name": "Jayanagar",
+      "count": 274
+    },
+    {
+      "name": "Sarjapur Road",
+      "count": 226
+    },
+    {
+      "name": "BTM",
+      "count": 226
+    },
+    {
+      "name": "Basavanagudi",
+      "count": 205
+    },
+    {
+      "name": "Marathahalli",
+      "count": 104
+    },
+    {
+      "name": "HSR",
+      "count": 92
+    },
+    {
+      "name": "Kumaraswamy Layout",
+      "count": 57
+    },
+    {
+      "name": "Shanti Nagar",
+      "count": 35
+    },
+    {
+      "name": "City Market",
+      "count": 27
+    },
+    {
+      "name": "MG Road",
+      "count": 25
+    },
+    {
+      "name": "Richmond Road",
+      "count": 23
+    },
+    {
+      "name": "Brigade Road",
+      "count": 22
+    },
+    {
+      "name": "Ulsoor",
+      "count": 21
+    },
+    {
+      "name": "Church Street",
+      "count": 16
+    },
+    {
+      "name": "Wilson Garden",
+      "count": 16
+    },
+    {
+      "name": "Lavelle Road",
+      "count": 15
+    },
+    {
+      "name": "Indiranagar",
+      "count": 15
+    },
+    {
+      "name": "South Bangalore",
+      "count": 14
+    },
+    {
+      "name": "Residency Road",
+      "count": 13
+    },
+    {
+      "name": "Mysore Road",
+      "count": 13
+    },
+    {
+      "name": "Cunningham Road",
+      "count": 12
+    }
+  ],
+  "cuisinesCount": 84,
+  "topCuisines": [
+    {
+      "name": "North Indian",
+      "count": 1239
+    },
+    {
+      "name": "Chinese",
+      "count": 858
+    },
+    {
+      "name": "South Indian",
+      "count": 602
+    },
+    {
+      "name": "Fast Food",
+      "count": 501
+    },
+    {
+      "name": "Biryani",
+      "count": 419
+    },
+    {
+      "name": "Desserts",
+      "count": 321
+    },
+    {
+      "name": "Beverages",
+      "count": 296
+    },
+    {
+      "name": "Cafe",
+      "count": 247
+    },
+    {
+      "name": "Continental",
+      "count": 232
+    },
+    {
+      "name": "Street Food",
+      "count": 184
+    },
+    {
+      "name": "Italian",
+      "count": 164
+    },
+    {
+      "name": "Bakery",
+      "count": 163
+    },
+    {
+      "name": "Ice Cream",
+      "count": 138
+    },
+    {
+      "name": "Pizza",
+      "count": 111
+    },
+    {
+      "name": "Andhra",
+      "count": 111
+    },
+    {
+      "name": "Burger",
+      "count": 105
+    },
+    {
+      "name": "Rolls",
+      "count": 98
+    },
+    {
+      "name": "Juices",
+      "count": 95
+    },
+    {
+      "name": "Seafood",
+      "count": 92
+    },
+    {
+      "name": "Mughlai",
+      "count": 81
+    },
+    {
+      "name": "Momos",
+      "count": 67
+    },
+    {
+      "name": "Sandwich",
+      "count": 63
+    },
+    {
+      "name": "Healthy Food",
+      "count": 61
+    },
+    {
+      "name": "Kebab",
+      "count": 59
+    },
+    {
+      "name": "Arabian",
+      "count": 59
+    },
+    {
+      "name": "Mithai",
+      "count": 57
+    },
+    {
+      "name": "Kerala",
+      "count": 53
+    },
+    {
+      "name": "Salad",
+      "count": 50
+    },
+    {
+      "name": "Thai",
+      "count": 48
+    },
+    {
+      "name": "American",
+      "count": 47
+    },
+    {
+      "name": "BBQ",
+      "count": 38
+    },
+    {
+      "name": "Asian",
+      "count": 37
+    },
+    {
+      "name": "Mangalorean",
+      "count": 34
+    },
+    {
+      "name": "Finger Food",
+      "count": 28
+    },
+    {
+      "name": "Bengali",
+      "count": 27
+    }
+  ],
+  "priceDistribution": {
+    "budget": 2164,
+    "moderate": 734,
+    "upscale": 97,
+    "luxury": 5
+  },
+  "averageCostForTwo": 469,
+  "averageRating": 3.63,
+  "ratingDistribution": {
+    "4.5+": 35,
+    "4.0 - 4.4": 487,
+    "3.5 - 3.9": 1090,
+    "3.0 - 3.4": 587,
+    "< 3.0": 156,
+    "Unrated / New": 645
+  }
+}
