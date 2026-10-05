@@ -119,7 +119,7 @@ Display Personalized Recommendations
 **AI extracts:**
 
 ```text
-Location      → Gurgaon
+Location      → Bangalore
 Cuisine       → North Indian
 Meal          → Dinner
 Budget        → ₹1,500 for two
